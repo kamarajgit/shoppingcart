@@ -3,7 +3,7 @@
 ## Installation & Instructions
 
 ### Git cloning
-git clone <url>
+git clone "https://github.com/kamarajgit/shoppingcart.git"
 
 ### Node 
 
