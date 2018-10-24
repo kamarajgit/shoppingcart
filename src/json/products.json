@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "LG G7+ Thinq",
+    "price": 55000,
+    "image": "../../images/lgG7.jpg",
+    "category": "LG",
+    "OS":"Android",
+    "tags":["LG",  "smartphone", "flagship", "snapDragon 845","Android"]
+  },
+  {
+    "id": 2,
+    "name": "LG G7+ Thinq Cover Case Rigid",
+    "price": 299,
+    "image": "../../images/lgg7cover.jpeg",
+    "category": "LG",
+    "tags":["LG", "cover-case","LG G7+ Thinq"]
+  },
+  {
+    "id": 3,
+    "name": "LG G7+ Thinq Cover Case rubber",
+    "price": 249,
+    "image": "../../images/lgg7cover2.jpeg",
+    "category": "LG",
+    "tags":["LG", "cover-case","LG G7+ Thinq"]
+  },
+  {
+    "id": 4,
+    "name": "LG G7+ Thinq Temper Glass Screen Protection",
+    "price": 199,
+    "image": "../../images/lgG7glass.jpg",
+    "category": "LG",
+    "tags":["LG", "Temperglass","LG G7+ Thinq"]
+  },
+  {
+    "id": 5,
+    "name": "Iphone XS Max",
+    "price": 125852,
+    "image": "../../images/iphonexmax.jpeg",
+    "category": "Apple",
+    "tags":["Apple",  "smartphone", "flagship", "A12 Bionic","IOS"]
+  },
+ {
+    "id": 6,
+    "name": "Iphone XS Max Cover case",
+    "price": 1812,
+    "image": "../../images/iphonecover.jpg",
+    "category": "Apple",
+    "tags":["Apple",  "cover-case","Iphone XS Max"]
+  },  
+  {
+    "id": 7,
+    "name": "Iphone X",
+    "price": 99000,
+    "image": "../../images/iphonex.jpeg",
+    "category": "Apple",
+    "tags":["Apple",  "smartphone", "flagship", "A12 Bionic","IOS"]
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy S9",
+    "price": 65000,
+    "image": "../../images/s9.jpeg",
+    "category": "Samsung",
+    "OS":"Android",
+    "tags":["Samsung",  "smartphone", "flagship", "snapDragon 845","Android"]
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy S9 Cover Case Rigid",
+    "price": 299,
+    "image": "../../images/s9cover.jpg",
+    "category": "Samsung",
+    "tags":["Samsung", "cover-case","Samsung Galaxy S9"]
+  },
+  {
+    "id": 10,
+    "name": "Google Pixel 3",
+    "price": 72000,
+    "image": "../../images/pixel3.jpeg",
+    "category": "Google",
+    "OS":"Android",
+    "tags":["Google",  "smartphone", "flagship", "snapDragon 845","Android"]
+  },
+  
+  {
+    "id": 11,
+    "name": "Google Pixel 3 Cover Case Rigid",
+    "price": 299,
+    "image": "../../images/pixel3cover.jpeg",
+    "category": "Google",
+    "tags":["Google", "cover-case","Google Pixel 3"]
+  },
+  {
+    "id": 12,
+    "name": "Oppo Find X Lamborghini Edition",
+    "price": 125000,
+    "image": "../../images/oppox.jpg",
+    "category": "Oppo",
+    "OS":"Android",
+    "tags":["Oppo",  "smartphone", "premium", "snapDragon 845","Android", "flapship"]
+  },
+  
+  {
+    "id": 13,
+    "name": "Oppo Find X Lamborghini Edition Screen guard Rigid",
+    "price": 299,
+    "image": "../../images/oppoxscreen.jpg",
+    "category": "Oppo",
+    "tags":["Oppo", "Temperglass","Oppo Find X Lamborghini Edition"]
+  },
+  {
+    "id": 14,
+    "name": "Huawei Porsche Edition",
+    "price": 136000,
+    "image": "../../images/porsche.jpg",
+    "category": "Huawei",
+    "OS":"Android",
+    "tags":["Huawei",  "smartphone", "premium", "snapDragon 845","Android", "flapship"]
+  },
+  
+  {
+    "id": 15,
+    "name": "Huawei Porsche Edition Screen guard Rigid",
+    "price": 299,
+    "image": "../../images/oppoxscreen.jpg",
+    "category": "Oppo",
+    "tags":["Oppo", "Temperglass","Huawei Porsche Edition"]
+  }
+]
